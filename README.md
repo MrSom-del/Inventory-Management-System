@@ -157,12 +157,7 @@ Inventory/
 │   │   │   ├── Dashboard.jsx
 │   │   │   ├── Products.jsx
 │   │   │   ├── Orders.jsx
-│   │   │   └── OrderDetails.jsx
-│   │   ├── services/                             # API services
-│   │   │   ├── api.js
-│   │   │   ├── DashboardService.js
-│   │   │   ├── ProductService.js
-│   │   │   └── OrderService.js
+│   │   │   └── OrderDetails.jsx                            
 │   │   ├── App.js
 │   │   └── index.js
 │   └── package.json
@@ -321,30 +316,6 @@ npm test -- --coverage
 - [ ] Advanced search filters
 - [ ] Order history and archival
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name** - [GitHub Profile](https://github.com/your-username)
-
-## 📞 Support
-
-For support, open an issue on GitHub or contact the maintainer.
-
----
-
 ## 🎉 Screenshots
 
 ### Dashboard
@@ -358,10 +329,3 @@ Create and track orders with status updates
 
 ### Responsive Design
 Works perfectly on all devices
-
----
-
-**Happy coding! 🚀**
-
-Made with ❤️ using Spring Boot and React
-
