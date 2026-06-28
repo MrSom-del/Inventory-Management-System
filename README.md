@@ -157,7 +157,12 @@ Inventory/
 │   │   │   ├── Dashboard.jsx
 │   │   │   ├── Products.jsx
 │   │   │   ├── Orders.jsx
-│   │   │   └── OrderDetails.jsx                            
+│   │   │   └── OrderDetails.jsx
+│   │   ├── services/                             # API services
+│   │   │   ├── api.js
+│   │   │   ├── DashboardService.js
+│   │   │   ├── ProductService.js
+│   │   │   └── OrderService.js
 │   │   ├── App.js
 │   │   └── index.js
 │   └── package.json
@@ -316,6 +321,8 @@ npm test -- --coverage
 - [ ] Advanced search filters
 - [ ] Order history and archival
 
+---
+
 ## 🎉 Screenshots
 
 ### Dashboard
@@ -326,6 +333,3 @@ Search, sort, and manage inventory with visual stock indicators
 
 ### Orders Management
 Create and track orders with status updates
-
-### Responsive Design
-Works perfectly on all devices
