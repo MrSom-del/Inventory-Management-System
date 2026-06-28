@@ -327,9 +327,12 @@ npm test -- --coverage
 
 ### Dashboard
 Clean overview with stats and recent orders
+![Main Screenshot](screenshots/Dashboard.png)
 
 ### Products Page
 Search, sort, and manage inventory with visual stock indicators
+![Main Screenshot](screenshots/Products.png)
 
 ### Orders Management
 Create and track orders with status updates
+![Main Screenshot](screenshots/Orders.png)
